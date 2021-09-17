@@ -1,6 +1,6 @@
 # first_flutter_app
 
-A new Flutter project.
-
-## Getting Started
+A basic Flutter project which includes,
+- MaterialApp widget 
+- Scaffold layout with AppBar, body, BottomAppBar
 
